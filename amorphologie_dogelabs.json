@@ -1,0 +1,669 @@
+{
+  "body": [
+  {
+    "inscriptionId": "efa8bdad800b42ebfe341362c88570764563b3a1f29a522e31cbb55b4e7c9996i0",
+    "name": "Amorphologie #1",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/efa8bdad800b42ebfe341362c88570764563b3a1f29a522e31cbb55b4e7c9996i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "116fca9d35a3ce9d4108d1c46fc22a0bf8474f29b650f0394610cd972883c978i0",
+    "name": "Amorphologie #2",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/116fca9d35a3ce9d4108d1c46fc22a0bf8474f29b650f0394610cd972883c978i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "fa7873e25d5529404d5cd801bdf3d87bc86bc0943f17013bc8191eab45afd743i0",
+    "name": "Amorphologie #3",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/fa7873e25d5529404d5cd801bdf3d87bc86bc0943f17013bc8191eab45afd743i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "78aaa2e44d483fcc386454a98fbcfaf4ff00598f8c425c2a6678f712b4572f59i0",
+    "name": "Amorphologie #4",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/78aaa2e44d483fcc386454a98fbcfaf4ff00598f8c425c2a6678f712b4572f59i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "55a162e45670242ef8099583db6b274fd5263d23425389396db58406b039b06bi0",
+    "name": "Amorphologie #5",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/55a162e45670242ef8099583db6b274fd5263d23425389396db58406b039b06bi0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "2ac2af1402b34486b52a9b9480f6ab9f531264029556547a8ee35d2575316c7ei0",
+    "name": "Amorphologie #6",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/2ac2af1402b34486b52a9b9480f6ab9f531264029556547a8ee35d2575316c7ei0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "568a579a19a43336c5624bbb323769591569151436d55c7c4b424bf53559fb19i0",
+    "name": "Amorphologie #7",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/568a579a19a43336c5624bbb323769591569151436d55c7c4b424bf53559fb19i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "567c01cb29d6d07794d5db1768bb18cec57b47876ec5850dabed03fdec1f76a9i0",
+    "name": "Amorphologie #8",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/567c01cb29d6d07794d5db1768bb18cec57b47876ec5850dabed03fdec1f76a9i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "9dff953ec8c10082212c7dceb6e97d9cbcb8b0b8a4c5ce6b7320b3c4064a1eb7i0",
+    "name": "Amorphologie #9",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/9dff953ec8c10082212c7dceb6e97d9cbcb8b0b8a4c5ce6b7320b3c4064a1eb7i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "ccb6d083335367cc84b20ef173ba9295990d0905a0001f982bdb644454fa6d58i0",
+    "name": "Amorphologie #10",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/ccb6d083335367cc84b20ef173ba9295990d0905a0001f982bdb644454fa6d58i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "79894e89b4f4699f835805713e0e23ba4920aeb91d8e953b5f524b3cba6f0d61i0",
+    "name": "Amorphologie #11",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/79894e89b4f4699f835805713e0e23ba4920aeb91d8e953b5f524b3cba6f0d61i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "667c041f604b25c6331449ba5e0b05fc6a0cf6a8e4269c8b5b9a0328f549ecb1i0",
+    "name": "Amorphologie #12",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/667c041f604b25c6331449ba5e0b05fc6a0cf6a8e4269c8b5b9a0328f549ecb1i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "cc8238477bd492b616410fae4b4c80a3e2554fcd9150e50da2a23b1585e9a9a4i0",
+    "name": "Amorphologie #13",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/cc8238477bd492b616410fae4b4c80a3e2554fcd9150e50da2a23b1585e9a9a4i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "69fc6e4bb48e058c5d59268aa537f86d7d9d3f47a7596c1f3c335f3384b1d4f1i0",
+    "name": "Amorphologie #14",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/69fc6e4bb48e058c5d59268aa537f86d7d9d3f47a7596c1f3c335f3384b1d4f1i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "25311611481d39f484d6d4123089dbff1e37da4bdea1f7f0a3f951ff2414ac4bi0",
+    "name": "Amorphologie #15",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/25311611481d39f484d6d4123089dbff1e37da4bdea1f7f0a3f951ff2414ac4bi0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "e50374f4e95a71c809c9cf6a5118681af4ff2d06b928f93b1da3ee438b203302i0",
+    "name": "Amorphologie #16",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/e50374f4e95a71c809c9cf6a5118681af4ff2d06b928f93b1da3ee438b203302i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "3b53a04ce214b47628ee4535e6b353c899bcda5cb06bb79702ca2201c8672546i0",
+    "name": "Amorphologie #17",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/3b53a04ce214b47628ee4535e6b353c899bcda5cb06bb79702ca2201c8672546i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "f293d86d36daadc7ee8df4af9c255f0af25cec2b8246265d0ea1d8237815082fi0",
+    "name": "Amorphologie #18",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/f293d86d36daadc7ee8df4af9c255f0af25cec2b8246265d0ea1d8237815082fi0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "45c4d9e3505586183d95a98bcc7c93eae20c947aca9e433275d7b638d981a608i0",
+    "name": "Amorphologie #19",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/45c4d9e3505586183d95a98bcc7c93eae20c947aca9e433275d7b638d981a608i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "0d90dc176387688bd0ca1ec58d4d8b52a36edf640a009421b2fc41c1343cfb24i0",
+    "name": "Amorphologie #20",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/0d90dc176387688bd0ca1ec58d4d8b52a36edf640a009421b2fc41c1343cfb24i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "1228c4000fbeaca765f281787ac04ea535e100def27fd7cb8d7b29e7707c1075i0",
+    "name": "Amorphologie #21",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/1228c4000fbeaca765f281787ac04ea535e100def27fd7cb8d7b29e7707c1075i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "d27bb298675cd1816729c10be258c5bf54cf9c5282be3316d986add53ca44fb7i0",
+    "name": "Amorphologie #22",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/d27bb298675cd1816729c10be258c5bf54cf9c5282be3316d986add53ca44fb7i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "db33e331028f9b3219f5b58c0d694756ab37c3c70843889de298e84a0e3214d0i0",
+    "name": "Amorphologie #23",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/db33e331028f9b3219f5b58c0d694756ab37c3c70843889de298e84a0e3214d0i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "5c50fffdb25b974e6f3a41537c4795a8084bcff1179c3e6b8ac8c31f8a29fbc6i0",
+    "name": "Amorphologie #24",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/5c50fffdb25b974e6f3a41537c4795a8084bcff1179c3e6b8ac8c31f8a29fbc6i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "c62bd834ff28f48f5662d1be6736a21c7ecdd7efd70f8350b11bbbfcf4eda773i0",
+    "name": "Amorphologie #25",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/c62bd834ff28f48f5662d1be6736a21c7ecdd7efd70f8350b11bbbfcf4eda773i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "204c0fa96a515fcde5e4d2d38bf0dcb5c0d7d7d9643b30c84e32b54c6d682144i0",
+    "name": "Amorphologie #26",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/204c0fa96a515fcde5e4d2d38bf0dcb5c0d7d7d9643b30c84e32b54c6d682144i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "c2326a3bc9f5b42a6b80e341e6cddb6be1cf6c26adda826fb698ed422e692ccfi0",
+    "name": "Amorphologie #27",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/c2326a3bc9f5b42a6b80e341e6cddb6be1cf6c26adda826fb698ed422e692ccfi0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "7dbbe0d5cf1bf3abbffe23b243a98e734b7d91aecaf7af6069481ae5d12060dfi0",
+    "name": "Amorphologie #28",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/7dbbe0d5cf1bf3abbffe23b243a98e734b7d91aecaf7af6069481ae5d12060dfi0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "27d93525a208b2c97ba2986da43f49ce7a4baaa3b55675df6f3118038c3fb1c5i0",
+    "name": "Amorphologie #29",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/27d93525a208b2c97ba2986da43f49ce7a4baaa3b55675df6f3118038c3fb1c5i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "8bd7a3f209f51fb03e34951bd87a47427dd8815a0dcbd179d043d1a6d26be582i0",
+    "name": "Amorphologie #30",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/8bd7a3f209f51fb03e34951bd87a47427dd8815a0dcbd179d043d1a6d26be582i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "10f6abf032b8e7f8d3fe782110dc3c7d306f8ca333d84b2a777292bb7dc6bfdei0",
+    "name": "Amorphologie #31",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/10f6abf032b8e7f8d3fe782110dc3c7d306f8ca333d84b2a777292bb7dc6bfdei0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "cea8a08d86ba343a5093962d5c1ee9ed07bf2445987a72d0d8267d0bd4c83503i0",
+    "name": "Amorphologie #32",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/cea8a08d86ba343a5093962d5c1ee9ed07bf2445987a72d0d8267d0bd4c83503i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "a2d43e3f3f2af22da707c521879b3c9e7130802d5c92f491dbac63ef6eae54c4i0",
+    "name": "Amorphologie #33",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/a2d43e3f3f2af22da707c521879b3c9e7130802d5c92f491dbac63ef6eae54c4i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "3990ff9dd0c95bef17d0b71d5c4d7921a5c57523ebf2eaadc4797a8bf26ea5f4i0",
+    "name": "Amorphologie #34",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/3990ff9dd0c95bef17d0b71d5c4d7921a5c57523ebf2eaadc4797a8bf26ea5f4i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "fec360b3dd6d03f042b9984bcdf3858697f7f72365b5d13a062b5a49d0ab2d64i0",
+    "name": "Amorphologie #35",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/fec360b3dd6d03f042b9984bcdf3858697f7f72365b5d13a062b5a49d0ab2d64i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "fe25a1404e46d88405f2e7d0c0feaca43ed738b7ae113f45d4dea775b6516716i0",
+    "name": "Amorphologie #36",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/fe25a1404e46d88405f2e7d0c0feaca43ed738b7ae113f45d4dea775b6516716i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "62bceb2acd6f0af68da2e021d23a04c9f14e46a0a37b76f27861d71617f8dcebi0",
+    "name": "Amorphologie #37",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/62bceb2acd6f0af68da2e021d23a04c9f14e46a0a37b76f27861d71617f8dcebi0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "35b54aeda5864d846ad30e87f36878dea7fc3306c38182f12db76d241a9e0269i0",
+    "name": "Amorphologie #38",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/35b54aeda5864d846ad30e87f36878dea7fc3306c38182f12db76d241a9e0269i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "e348ae184d9715841666b0b449d635d36e98cf2972e5b684f569131dde0e2799i0",
+    "name": "Amorphologie #39",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/e348ae184d9715841666b0b449d635d36e98cf2972e5b684f569131dde0e2799i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "92ea40b8d86052b616e30ab6f945faae41c3aca2e846e68144027051172ac49fi0",
+    "name": "Amorphologie #40",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/92ea40b8d86052b616e30ab6f945faae41c3aca2e846e68144027051172ac49fi0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "ab65c9eafd4c458d946d4dd0212d2765ab3ba07e122ca62f23b5fde5d449ce91i0",
+    "name": "Amorphologie #41",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/ab65c9eafd4c458d946d4dd0212d2765ab3ba07e122ca62f23b5fde5d449ce91i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "7bbc553df32acce71b80bee5bf0130da77b50e6d72743a97b52294a45f6c79c2i0",
+    "name": "Amorphologie #42",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/7bbc553df32acce71b80bee5bf0130da77b50e6d72743a97b52294a45f6c79c2i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "16e01b374e56924984e6487d802cf6b076044ddb1984e7851e95c3e2e1348306i0",
+    "name": "Amorphologie #43",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/16e01b374e56924984e6487d802cf6b076044ddb1984e7851e95c3e2e1348306i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "88c4a7cd23b9a0598999518d9c4951104ab3ae41e80938e486d9817a56142c9di0",
+    "name": "Amorphologie #44",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/88c4a7cd23b9a0598999518d9c4951104ab3ae41e80938e486d9817a56142c9di0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "d68158fb2baf69d8301121bb62e280bba28175a37b6610a00f440f094de9c9f6i0",
+    "name": "Amorphologie #45",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/d68158fb2baf69d8301121bb62e280bba28175a37b6610a00f440f094de9c9f6i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "e6bd4ffff1e0685f2e53d4156d2d853540e416b9f46c111afafa3adef3864c58i0",
+    "name": "Amorphologie #46",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/e6bd4ffff1e0685f2e53d4156d2d853540e416b9f46c111afafa3adef3864c58i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "121109d57972843ef80c6c5101eaa114d8f219896eb84938ececadbb2de190bdi0",
+    "name": "Amorphologie #47",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/121109d57972843ef80c6c5101eaa114d8f219896eb84938ececadbb2de190bdi0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "24021468e3b2d123df162f20a8a5ab34e9c2b57f0a5cee4e27b3a53f0e7feb64i0",
+    "name": "Amorphologie #48",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/24021468e3b2d123df162f20a8a5ab34e9c2b57f0a5cee4e27b3a53f0e7feb64i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "8e68bbcb61caf3a6a8c3f8b3fc90db46b44e7366a96cf49bb96fa6181d5cbd49i0",
+    "name": "Amorphologie #49",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/8e68bbcb61caf3a6a8c3f8b3fc90db46b44e7366a96cf49bb96fa6181d5cbd49i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "4ec1e3878ff6cd79dde8d24a246b7dbfd4404afa3573ca308b5ba8a416c12ecfi0",
+    "name": "Amorphologie #50",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/4ec1e3878ff6cd79dde8d24a246b7dbfd4404afa3573ca308b5ba8a416c12ecfi0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "fb0e464c3ce32cf26de9dd476d5a44331050fd05a3fc674a645af8460637b5e0i0",
+    "name": "Amorphologie #51",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/fb0e464c3ce32cf26de9dd476d5a44331050fd05a3fc674a645af8460637b5e0i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "a9ad80f8d61fd9c7ccee42f55d33e99400807841015a8091984e2a2d7efe63d7i0",
+    "name": "Amorphologie #52",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/a9ad80f8d61fd9c7ccee42f55d33e99400807841015a8091984e2a2d7efe63d7i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "846013ac8a9acc7415ce81f9e6c49ead3d7c5a320d046a104ecd56b52a3b389ci0",
+    "name": "Amorphologie #53",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/846013ac8a9acc7415ce81f9e6c49ead3d7c5a320d046a104ecd56b52a3b389ci0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "6664ae56b56e6f5e86019b08680cf59aea4c1085f5a85b324671b15dc9ee283fi0",
+    "name": "Amorphologie #54",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/6664ae56b56e6f5e86019b08680cf59aea4c1085f5a85b324671b15dc9ee283fi0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "d2c9fe39e763691fe5f0384a69a0d2b2e732b8ea9c9931c42c8fe9b406266dd0i0",
+    "name": "Amorphologie #55",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/d2c9fe39e763691fe5f0384a69a0d2b2e732b8ea9c9931c42c8fe9b406266dd0i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "a932333eee405fe8d06c150817b46038af01787a2e78d3cce2acaafcebfda7cai0",
+    "name": "Amorphologie #56",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/a932333eee405fe8d06c150817b46038af01787a2e78d3cce2acaafcebfda7cai0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "bc3e3d0c834c14c4ee8d9f5d2e6ff1dac76f76f045045bc4b0b86cacffb4c4f1i0",
+    "name": "Amorphologie #57",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/bc3e3d0c834c14c4ee8d9f5d2e6ff1dac76f76f045045bc4b0b86cacffb4c4f1i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "d4c9e5460d015f952611638ef73fd5ea9398f6e4172b0cba179b35f9689671edi0",
+    "name": "Amorphologie #58",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/d4c9e5460d015f952611638ef73fd5ea9398f6e4172b0cba179b35f9689671edi0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "e7b064ae85c5cf300da0c46f032daac74b8b5938b7fef37ea83595106f5a832ci0",
+    "name": "Amorphologie #59",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/e7b064ae85c5cf300da0c46f032daac74b8b5938b7fef37ea83595106f5a832ci0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "f91d68f844bd5bde8d9ba6913f0149ee3a472031827454f50050878671ca5079i0",
+    "name": "Amorphologie #60",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/f91d68f844bd5bde8d9ba6913f0149ee3a472031827454f50050878671ca5079i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "08ab464e4a2308738ebca32c9ca186a7637121e17c3f187180d1e667c1ad9160i0",
+    "name": "Amorphologie #61",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/08ab464e4a2308738ebca32c9ca186a7637121e17c3f187180d1e667c1ad9160i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "ef65330046ac0bcd26d4a3c43a1cf9d3cda2328e1c6284743a800d77f9237e5ai0",
+    "name": "Amorphologie #62",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/ef65330046ac0bcd26d4a3c43a1cf9d3cda2328e1c6284743a800d77f9237e5ai0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "987d103abab7e5e02a8e412622887ee122f835d239aa587bc39d3223420d8addi0",
+    "name": "Amorphologie #63",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/987d103abab7e5e02a8e412622887ee122f835d239aa587bc39d3223420d8addi0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "f4bb5c25d0c9219fdb58e15e7b04d528e51f203cc368a8c8af113939f2131710i0",
+    "name": "Amorphologie #64",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/f4bb5c25d0c9219fdb58e15e7b04d528e51f203cc368a8c8af113939f2131710i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "eb439c34398a7542d8cbc88f64bbe2f580c9690af008f50ef8b9aa2937932142i0",
+    "name": "Amorphologie #65",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/eb439c34398a7542d8cbc88f64bbe2f580c9690af008f50ef8b9aa2937932142i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "299471981f53b93c32d9fe0c558397cb9977cee4f6eecd837108b49656c6327ai0",
+    "name": "Amorphologie #66",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/299471981f53b93c32d9fe0c558397cb9977cee4f6eecd837108b49656c6327ai0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "38e72a1cc3eab441f647c80acd34f495fcfde1c0b81741cf3a9dffe11be31968i0",
+    "name": "Amorphologie #67",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/38e72a1cc3eab441f647c80acd34f495fcfde1c0b81741cf3a9dffe11be31968i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "a5e373079e2bd3e571fbea86cee857845ade0e5506f55a8ab58df4107a2e6f71i0",
+    "name": "Amorphologie #68",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/a5e373079e2bd3e571fbea86cee857845ade0e5506f55a8ab58df4107a2e6f71i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "98b69fc084c8499f224a7b898db5cd0c8164dcf6db2fd25cb374fc359c552202i0",
+    "name": "Amorphologie #69",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/98b69fc084c8499f224a7b898db5cd0c8164dcf6db2fd25cb374fc359c552202i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "e212d3fb4a2a24566ad56fbe4acd99f694548621d325cf5b2c19f3ac79aa476ai0",
+    "name": "Amorphologie #70",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/e212d3fb4a2a24566ad56fbe4acd99f694548621d325cf5b2c19f3ac79aa476ai0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "c043e08a973d87777871c6363d1238d1c8c43b5123173907fb4a038e0a5faf68i0",
+    "name": "Amorphologie #71",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/c043e08a973d87777871c6363d1238d1c8c43b5123173907fb4a038e0a5faf68i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "f460f21785d923e3ed22dcac5fbea9ee460b61356e1aa6a905ee99e88e0afc76i0",
+    "name": "Amorphologie #72",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/f460f21785d923e3ed22dcac5fbea9ee460b61356e1aa6a905ee99e88e0afc76i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "910dce0c03c01022ef1d0f4c8e94919338d017d30817e8c8282ae4a7435b68fci0",
+    "name": "Amorphologie #73",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/910dce0c03c01022ef1d0f4c8e94919338d017d30817e8c8282ae4a7435b68fci0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "3aa7b64f73cde91d783b03be5a8b68f2eb804b7701721d417678c40b75782ad9i0",
+    "name": "Amorphologie #74",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/3aa7b64f73cde91d783b03be5a8b68f2eb804b7701721d417678c40b75782ad9i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "8f9dba68c2a73df57490dd5e636230d978c97afdd86a9ededf72ef44bdf59cb2i0",
+    "name": "Amorphologie #75",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/8f9dba68c2a73df57490dd5e636230d978c97afdd86a9ededf72ef44bdf59cb2i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "18e0bac7726925b4207388939c0f67342bdaedbca3d451b9e038dbf32525cb3ei0",
+    "name": "Amorphologie #76",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/18e0bac7726925b4207388939c0f67342bdaedbca3d451b9e038dbf32525cb3ei0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "ae9e95f726c0adbbe8a266bee949bd55909d48bd3553e6fcddffb882697b08abi0",
+    "name": "Amorphologie #77",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/ae9e95f726c0adbbe8a266bee949bd55909d48bd3553e6fcddffb882697b08abi0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "796dd8ab54639a7b0b0c5239225300f22f5f588801188670ace036479b0b5b3fi0",
+    "name": "Amorphologie #78",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/796dd8ab54639a7b0b0c5239225300f22f5f588801188670ace036479b0b5b3fi0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "de09722443c400d4982ae0eb35c90ae7339186e85935405e164224f025909b26i0",
+    "name": "Amorphologie #79",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/de09722443c400d4982ae0eb35c90ae7339186e85935405e164224f025909b26i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "b7082024d5618a067fce899a3819950d840327b0bea23033dbdecbe66f2777fci0",
+    "name": "Amorphologie #80",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/b7082024d5618a067fce899a3819950d840327b0bea23033dbdecbe66f2777fci0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "69076c75dfbb403cef62add7f1373eb35b8018ceac1cd04c5cf50833af11e051i0",
+    "name": "Amorphologie #81",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/69076c75dfbb403cef62add7f1373eb35b8018ceac1cd04c5cf50833af11e051i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "97b563de67a1eef3f8f8fa190aaf31d0f90d651e30471cc504895e72cdd008fei0",
+    "name": "Amorphologie #82",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/97b563de67a1eef3f8f8fa190aaf31d0f90d651e30471cc504895e72cdd008fei0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "47f14b8b3016682bd5c263430c2edc1994e99f1c6491d23e57a3eb196a4e7a15i0",
+    "name": "Amorphologie #83",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/47f14b8b3016682bd5c263430c2edc1994e99f1c6491d23e57a3eb196a4e7a15i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "44d45d9c1b63a3ce76bc1d1faa4e7d9398a7ad5718a2a57d5d0d08dfda137cb3i0",
+    "name": "Amorphologie #84",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/44d45d9c1b63a3ce76bc1d1faa4e7d9398a7ad5718a2a57d5d0d08dfda137cb3i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "6596b40494b8c6d32437ed602470db8300c41dddf87b89ee0a98682e4e510d85i0",
+    "name": "Amorphologie #85",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/6596b40494b8c6d32437ed602470db8300c41dddf87b89ee0a98682e4e510d85i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "3893d56728c7c80169ba3db4ce81bf2cadee4a47a4b0d9695c6ad9c5e8dfc6fai0",
+    "name": "Amorphologie #86",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/3893d56728c7c80169ba3db4ce81bf2cadee4a47a4b0d9695c6ad9c5e8dfc6fai0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "6e3aed45b33d59b66a26ca72bf7b4917f503f67a1af17d1aaaffb94f798b93f9i0",
+    "name": "Amorphologie #87",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/6e3aed45b33d59b66a26ca72bf7b4917f503f67a1af17d1aaaffb94f798b93f9i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "52bfc8020b8ae0dac720e7270cf7781ca7991a2ebe3547a4364850199ef78d70i0",
+    "name": "Amorphologie #88",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/52bfc8020b8ae0dac720e7270cf7781ca7991a2ebe3547a4364850199ef78d70i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "bad4810779078dc4ef0cd4fb06dc1d6e9fb204192a6bdb3c6de5e30fceb92229i0",
+    "name": "Amorphologie #89",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/bad4810779078dc4ef0cd4fb06dc1d6e9fb204192a6bdb3c6de5e30fceb92229i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "bc4dd0a10556fa07599d9cd4447e26af17e38fd908d2c28ae687eda3dca1f050i0",
+    "name": "Amorphologie #90",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/bc4dd0a10556fa07599d9cd4447e26af17e38fd908d2c28ae687eda3dca1f050i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "9556758ea20739ec0bf8211d6a9c3be8f82e09daab340c3ded7a8d26ccda76a6i0",
+    "name": "Amorphologie #91",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/9556758ea20739ec0bf8211d6a9c3be8f82e09daab340c3ded7a8d26ccda76a6i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "b660dba0495b9faa8b20b1e67736302eef3bc2406b0a34f098661d7fe5268600i0",
+    "name": "Amorphologie #92",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/b660dba0495b9faa8b20b1e67736302eef3bc2406b0a34f098661d7fe5268600i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "e216589f4ebcd1eafb64957668ac65afc9f973132335c0d6a345973362c8ee22i0",
+    "name": "Amorphologie #93",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/e216589f4ebcd1eafb64957668ac65afc9f973132335c0d6a345973362c8ee22i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "69ba8bfaf88b365b6999eb0652c109367713c572dc59c51fa490918a08cb601bi0",
+    "name": "Amorphologie #94",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/69ba8bfaf88b365b6999eb0652c109367713c572dc59c51fa490918a08cb601bi0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "243f4b10aaca566fecb79be38207b776033884fe8d2f167c730d331a610a40edi0",
+    "name": "Amorphologie #95",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/243f4b10aaca566fecb79be38207b776033884fe8d2f167c730d331a610a40edi0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "ce8d8363ebb8c2acffeb214d4ac1001aa5cc83c44c9e6ae92becb1fa1ca66e62i0",
+    "name": "Amorphologie #96",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/ce8d8363ebb8c2acffeb214d4ac1001aa5cc83c44c9e6ae92becb1fa1ca66e62i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "550637d09fcd613f1a87ab135064cbeb84341925eb5e02f337ad2e42fe2416e5i0",
+    "name": "Amorphologie #97",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/550637d09fcd613f1a87ab135064cbeb84341925eb5e02f337ad2e42fe2416e5i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "9d6f8247c13611fc5b593a7569d0f77b7a1bac8f43a64e023b9d28939ba9e2c8i0",
+    "name": "Amorphologie #98",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/9d6f8247c13611fc5b593a7569d0f77b7a1bac8f43a64e023b9d28939ba9e2c8i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "6db2f3e57aade06f20d72f9002cdbc812afc4c0c584d9ed898a61787b166d2bei0",
+    "name": "Amorphologie #99",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/6db2f3e57aade06f20d72f9002cdbc812afc4c0c584d9ed898a61787b166d2bei0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "17111ed99ba8dec348b4e604b27fb89b796f10d4f26a3120ca496d490b6735b1i0",
+    "name": "Amorphologie #100",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/17111ed99ba8dec348b4e604b27fb89b796f10d4f26a3120ca496d490b6735b1i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "bb4123f123ec5f389fdc420e1bc5608d5af7a880f95070335ad6e5643f679da8i0",
+    "name": "Amorphologie #101",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/bb4123f123ec5f389fdc420e1bc5608d5af7a880f95070335ad6e5643f679da8i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "61119dd0ab9d44d3f9d4986634179bea4817f7602faee77fba45102f5062a7e3i0",
+    "name": "Amorphologie #102",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/61119dd0ab9d44d3f9d4986634179bea4817f7602faee77fba45102f5062a7e3i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "52d383d7861a8d4d9f6374ad0b4a84929646d6202c2a8c5458c9fb1274ed7badi0",
+    "name": "Amorphologie #103",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/52d383d7861a8d4d9f6374ad0b4a84929646d6202c2a8c5458c9fb1274ed7badi0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "6d5ffa19d097b3756396c567991f53f94a965996cbfa2f83522290b61cc27094i0",
+    "name": "Amorphologie #104",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/6d5ffa19d097b3756396c567991f53f94a965996cbfa2f83522290b61cc27094i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "8bf4baf7944ed817be2000141b0e9d74ce5ec28cdc061a09db02ab54b3057e22i0",
+    "name": "Amorphologie #105",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/8bf4baf7944ed817be2000141b0e9d74ce5ec28cdc061a09db02ab54b3057e22i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "8259c626204891347271bf6204f8c24f582ea0475603dc757c10604c3148bab4i0",
+    "name": "Amorphologie #106",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/8259c626204891347271bf6204f8c24f582ea0475603dc757c10604c3148bab4i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "9c26a4480d9557a23483f4fcdbe496ed718b72a836b1760db28f751de6532f4ai0",
+    "name": "Amorphologie #107",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/9c26a4480d9557a23483f4fcdbe496ed718b72a836b1760db28f751de6532f4ai0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "3a51c176b42119c980c99411b1690fbe8626b3cc1ac8db1f54a951f21c779436i0",
+    "name": "Amorphologie #108",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/3a51c176b42119c980c99411b1690fbe8626b3cc1ac8db1f54a951f21c779436i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "1d0f99323a3ccd713194064e219a7cb5a4591dc71b315fa937430b8197989d9ai0",
+    "name": "Amorphologie #109",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/1d0f99323a3ccd713194064e219a7cb5a4591dc71b315fa937430b8197989d9ai0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "60c6b3b2ec8b261ca6bcf907900afaf2578da41caa87fdb5b3aec14d7db2ac88i0",
+    "name": "Amorphologie #110",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/60c6b3b2ec8b261ca6bcf907900afaf2578da41caa87fdb5b3aec14d7db2ac88i0",
+    "collectionSymbol": "amorphologie"
+  },
+  {
+    "inscriptionId": "5ed2e80d4216f362c520f9ad480a44a3a7a8d3766804c55e4ca92904b4e28189i0",
+    "name": "Amorphologie #111",
+    "imageURI": "https:/wonky-ord.dogeord.io/content/5ed2e80d4216f362c520f9ad480a44a3a7a8d3766804c55e4ca92904b4e28189i0",
+    "collectionSymbol": "amorphologie"
+  }
+] }
